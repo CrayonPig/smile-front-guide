@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "smile工程管理",
   description: "工程化管理",
-  // base: '/smile-front-guide/',
+  base: '/smile-front-guide/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
